@@ -20,8 +20,17 @@ Will find the place  exactly at the Gas station and  opposite to the Coffee Shop
 * Non-Veg
     
     * Hyderabad Chicken Dum Biryani
+    * Hyderabad Special Chicken Dum Biryani
     * Hyderabad Mutton Dum Biryani
+    * Hyderabad Mutton Dum Biryani
+
+* Veg
+
+    * Butter Naan
+    * Roti
+    * Paneer Biryani
 
 * Drinks
 
-     * Coca Cola    
+     * Coca Cola 
+
