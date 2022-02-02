@@ -3,4 +3,4 @@
    1. Playing cricket
    2. Listening Music
 
-![Pavan Kalyan](pavan.jpeg)
+![Pavan Kalyan](https://github.com/pavankalyanbakkani/assignment2--Bakkani/blob/main/Pavan.jpeg)
