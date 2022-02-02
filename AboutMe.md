@@ -16,7 +16,7 @@ The following table represents the Sports Activities that someone can lookup on 
  
    | Name    |   |Location |    |Cost |
 
-   | Cricket |   | :England: |    |150$ |
+   | Cricket |   | England |    |150$ |
 
    |Base Ball|   |USA      |    |1k$  |
 
