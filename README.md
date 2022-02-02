@@ -48,11 +48,14 @@ The following table represents the Sports Activities that someone can lookup on 
 
 |Name|Location|Cost|
 
-|:---:|:---:|:---:|
+|---|---|---|
 
 |Cricket|England|150$|
+
 |BaseBall|USA|1k$|
+
 |Hockey|India|100$|
+
 |Badminton|Australia|100$|
 
 ----
