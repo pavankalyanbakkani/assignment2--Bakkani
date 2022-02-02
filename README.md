@@ -10,9 +10,9 @@ We do have **coffee shop** right opposite it and The **Drive In** in the Backyar
 
 RGIA International Airport-Shamshabad
 
-  1. Hire a taxi from airport to golconda fort,Suncity via  Nehru ORR-Outer Ring Road Lane.
-  2. Probably, it takes 30 min to reach the food place.
-  3. Will find the place  exactly at the Gas station and  opposite to the Coffee Shop.
+1. Hire a taxi from airport to golconda fort,Suncity via  Nehru ORR-Outer Ring Road Lane.
+2. Probably, it takes 30 min to reach the food place.
+3. Will find the place  exactly at the Gas station and  opposite to the Coffee Shop.
 
 
 ##### I recommend to taste the below mentioned
@@ -22,7 +22,7 @@ RGIA International Airport-Shamshabad
     * Hyderabad Chicken Dum Biryani
     * Hyderabad Special Chicken Dum Biryani
     * Hyderabad Mutton Dum Biryani
-    * Hyderabad Mutton Dum Biryani
+    * Hyderabad Mutton keema Dum Biryani
 
 * Veg
 
