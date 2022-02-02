@@ -56,3 +56,7 @@ The following table represents the Sports Activities that someone can lookup on 
 
 ----
 
+# Pithy Quotes
+    "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own" __ Matthew 6:34
+
+    “The righteous will live by faith.” __ Romans 1:17
