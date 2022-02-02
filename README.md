@@ -14,7 +14,6 @@ RGIA International Airport-Shamshabad
 2. Probably, it takes 30 min to reach the food place.
 3. Will find the place  exactly at the Gas station and  opposite to the Coffee Shop.
 
-
 ##### I recommend to taste the below mentioned
 
 * Non-Veg
