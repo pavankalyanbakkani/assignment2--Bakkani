@@ -8,3 +8,17 @@
 
 
 ----
+
+# Sports Activity Table
+
+
+The following table represents the Sports Activities that someone can lookup on their interest.
+ 
+   | Name    |   |Location|      |Cost|
+
+   | Cricket |   | England |    |150$ |
+   |Base Ball|   |USA      |    |1k$  |
+   | Hockey  |   | India   |    |100$ |
+   |Badminton|   | Australi|    |100$ |
+
+----
