@@ -46,17 +46,13 @@ Will find the place  exactly at the Gas station and  opposite to the Coffee Shop
 
 The following table represents the Sports Activities that someone can lookup on their interest.
 
-|Name|Location|Cost|
-
+|Name of the Sport|Location|Cost|    
 |---|---|---|
+|Hockey|India|60$|
+|Cricket|England|70$|
+|Football|France|70$|
+|Badminton|Australia|50$|
 
-|Cricket|England|150$|
-
-|BaseBall|USA|1k$|
-
-|Hockey|India|100$|
-
-|Badminton|Australia|100$|
 
 ----
 
