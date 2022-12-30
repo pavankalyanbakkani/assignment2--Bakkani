@@ -110,4 +110,4 @@ for (int j = 1; j <= K; j++)
 
 Link to source code <https://cp-algorithms.com/data_structures/sparse-table.html>
 
-
+Learning devops
